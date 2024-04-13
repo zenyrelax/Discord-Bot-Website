@@ -37,7 +37,7 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1228709600967135232/1228839643655569600/Z-Logo.png?ex=662d8119&is=661b0c19&hm=ccd439ce4fb02d2c4314cacfb4af91881fd6035be3f09d168b665457b2130360&" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Varhex</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                 Vexhex Hile Yapan Bir Sunucudur Kendi Özel Hilenizi Oluşturmak İsterseniz Bu Sunucuya Girip Kendi Priv Hilenizi Alabilirsiniz
