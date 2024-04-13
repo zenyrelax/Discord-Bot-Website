@@ -41,6 +41,7 @@ export default function Partners() {
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                 Vexhex Hile Yapan Bir Sunucudur Kendi Özel Hilenizi Oluşturmak İsterseniz Bu Sunucuya Girip Kendi Priv Hilenizi Alabilirsiniz
+                                </p>
                                 </div>     
                             </div>
                         </div>
